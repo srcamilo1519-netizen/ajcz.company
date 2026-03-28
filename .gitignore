@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+.env
+.env.*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Proyecto anidado con su propio git + dependencias pesadas
+skyward-innovations-main/
+
+# Node (si añades proyectos JS aquí)
+node_modules/
